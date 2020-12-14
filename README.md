@@ -1,2 +1,2 @@
-# PrettyTable_Pikachu
+# PrettyTable_Pokemon
 Using of PrettyTable Library
